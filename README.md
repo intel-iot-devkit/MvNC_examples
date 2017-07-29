@@ -1,1 +1,1 @@
-# movidius
+# movidius example code
