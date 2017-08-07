@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# Copyright(c) 2017 Intel Corporation. All Rights Reserved.
+# Copyright(c) 2017 Intel Corporation. 
 # License: MIT See LICENSE file in root directory.
 #
 # Python script to open and close a single NCS device
