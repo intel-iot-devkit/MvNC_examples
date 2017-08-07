@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+# Copyright(c) 2017 Intel Corporation. All Rights Reserved. */
 # Python script to open and close a single NCS device
 
 import mvnc.mvncapi as fx
